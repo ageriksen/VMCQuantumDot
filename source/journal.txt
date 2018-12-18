@@ -1,0 +1,7 @@
+
+---------------------------------------
+To Do:
+o random class
+o storage class
+o vmc (possibly) base and derived classes
+o wavefunction base and derived classes
